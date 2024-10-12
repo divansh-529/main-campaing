@@ -1,0 +1,92 @@
+@font-face {
+    font-family:thiccboi ;
+    src: url("/assets/font-family/thicccboi/fonts/TTF/THICCCBOI-Medium.ttf");
+}
+
+@font-face {
+    font-family:"thiccboi" ;
+    src: url("../font-family/thicccboi/fonts/TTF/THICCCBOI-Medium.ttf");
+    font-weight: 500;
+}
+@font-face {
+    font-family:"thiccboi" ;
+    src: url("../font-family/thicccboi/fonts/TTF/THICCCBOI-SemiBold.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family:"thiccboi" ;
+    src: url("../font-family/thicccboi/fonts/TTF/THICCCBOI-Bold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family:"thiccboi" ;
+    src: url("../font-family/thicccboi/fonts/TTF/THICCCBOI-Regular.ttf");
+    font-weight: 400;
+}
+*{
+    font-family: "thiccboi";
+}
+.bg-immg{
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    background: url(/assets/images/png/step-series-up.png);
+}
+.thicccboi{
+    font-family:"thiccboi" ;
+}
+.borter-of-button-of-slick-slider{
+    border-top: 1px solid #DAD7D7;
+   transform: translateY(-50%);
+}
+.dropshadow-one{
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.15);
+
+}
+.steps-drop-shaddow{
+    backdrop-filter: blur(35px) ;
+    box-shadow: 0px 4px 30px 0px #00000026;
+    
+}
+.linearGradient-steps{
+    background: linear-gradient(259.08deg, #50EDFF -5.05%, #48B8DA 63.97%, #3B5998 130.42%);
+}
+.slider-one .slick-track{
+    display: flex !important;
+    gap: 47px !important;
+}
+.slick-footer .slick-track {
+    display: flex !important;
+    gap: 60px !important;
+    align-items: center;
+}
+ .slider-one .slick-dots{
+    max-width: 85%;
+}
+.slider-one .slick-list{
+    padding-top: 100px !important;
+    padding-bottom: 52px !important;
+}
+ .slider-one .slick-active{
+width: 10px;
+height: 10px;
+border-radius: 50%;
+background: #3B5998 !important;
+}
+ .slider-one .slick-dots li  button::before{
+    font-size: 0px !important;
+ }
+.slider-one .slick-dots li{
+   
+width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background:#FAF9F6 ;
+}
+.shado-w{
+box-shadow: 4px 10px 50px 0px #5C5C5C26;
+box-shadow: 4px 15px 30px 0px #0000000D;
+}
+
+.shadow-4{
+    box-shadow: 0px 10px 15px 0px #00000026;
+}

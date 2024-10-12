@@ -1,0 +1,71 @@
+<section class="bg-offWhite px-3 lg:pb-14 md:pb-10 sm:pb-9 pb-7 lg:pt-28 md:pt-20 sm:pt-12 pt-5">
+        <div class="max-w-[1621px] mx-auto lg:mb-16 md:mb-12 sm:mb-8 mb-5 overflow-hidden">
+            <div class="slider px-12">
+                <div><img class="mx-auto" src="./assets/image/svg/noguchi.svg" alt="noguchi"></div>
+                <div><img class="mx-auto" src="./assets/image/svg/airbnb.svg" alt="airbnb"></div>
+                <div><img class="mx-auto" src="./assets/image/svg/probusiness.svg" alt="probusiness"></div>
+                <div><img class="mx-auto" src="./assets/image/svg/ariba.svg" alt="ariba"></div>
+                <div><img class="mx-auto" src="./assets/image/svg/idesign.svg" alt="idesign"></div>
+                <div><img class="mx-auto" src="./assets/image/svg/brooks.svg" alt="brooks"></div>
+                <div><img class="mx-auto" src="./assets/image/svg/okuma.png" alt="okuma"></div>
+                <div><img class="mx-auto" src="./assets/image/svg/island.svg" alt="island"></div>
+            </div>
+
+        </div>
+        <div class="border-t border-b border-offBlue border-dashed max-w-[1600px] mx-auto">
+            <div class="max-w-[1400px] mx-auto flex flex-wrap md:py-16 sm:py-11 py-7 gap-y-7">
+                <div class="lg:w-3/12 w-full">
+                    <img src="./assets/image/svg/logo.svg" alt="logo">
+                </div>
+                <div class="lg:w-2/12 md:w-3/12 w-6/12 gap-y-6 flex flex-col">
+                    <p class="uppercase text-xl font-bold">company</p>
+                    <div class="flex flex-col gap-y-5 opacity-75">
+                        <a class="hover:text-sky-400 transition-all ease-linear duration-300" href="/home">Home</a>
+                        <a class="hover:text-sky-400 transition-all ease-linear duration-300" href="/about us">About
+                            us</a>
+                        <a class="hover:text-sky-400 transition-all ease-linear duration-300"
+                            href="/pricing">Pricing</a>
+                        <a class="hover:text-sky-400 transition-all ease-linear duration-300"
+                            href="/pricing-start-free-trial">Pricing Start free trial</a>
+                    </div>
+                </div>
+                <div class="lg:w-2/12 md:w-3/12 w-6/12">
+                    <div class="max-w-[92px] mx-auto gap-y-6 flex flex-col">
+                        <p class="uppercase text-xl font-bold">Support</p>
+                        <div class="flex flex-col gap-y-5 opacity-75">
+                            <a class="transition-all ease-linear duration-300 hover:text-sky-400"
+                                href="/Contact us">Contact us</a>
+                            <a class="transition-all ease-linear duration-300 hover:text-sky-400" href="/FAQs">FAQs</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="lg:w-5/12 md:w-6/12 w-full">
+                    <div class="max-w-[477px] lg:ml-auto gap-y-5 flex flex-col">
+                        <p class="uppercase text-xl font-bold">subscribe</p>
+                        <form class="max-w-[447px]">
+                            <input required class="w-full p-5 rounded-2xl outline-none" type="email"
+                                placeholder="Enter email address">
+                        </form>
+                        <p class="text-sm font-light opacity-75 !leading-[157%]">By submitting your email you agree to
+                            our
+                            Terms of Use and Sale and Privacy Policy. You will receive email communications from us for
+                            marketing, informational, and promotional purposes and can opt-out at any time.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="max-w-[1585px] mx-auto flex justify-between items-center flex-wrap gap-y-5 pt-10">
+            <a class="text-sm font-light opacity-75 hover:text-sky-400 transition-all ease-linear duration-300" href="/privacy-policy">Privacy Policy • Terms & Conditions</a>
+            <div class="flex gap-5">
+                <a class="hover:scale-90 transition-all ease-linear duration-300" target="_blank"
+                    href="https://www.facebook.com/"><img src="./assets/image/svg/facebook.svg" alt="facebook"></a>
+                <a class="hover:scale-90 transition-all ease-linear duration-300" target="_blank"
+                    href="https://www.instagram.com/"><img src="./assets/image/svg/instagram.svg" alt="instagram"></a>
+                <a class="hover:scale-90 transition-all ease-linear duration-300" target="_blank"
+                    href="https://in.linkedin.com/"><img src="./assets/image/svg/in..svg" alt="in"></a>
+                <a class="hover:scale-90 transition-all ease-linear duration-300" target="_blank"
+                    href="https://www.cricbuzz.com/"><img src="./assets/image/svg/cb.svg" alt="cb"></a>
+            </div>
+        </div>
+    </section>
